@@ -16,3 +16,7 @@ FCA Certified
 TryHackMe: Multiple cybersecurity paths & challenges conquered
 ---
 ## 🚀 Let's Connect
+- [TryHackMe](https://tryhackme.com/p/UncleDark)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-yasser-ahmed/)
+- [Medium](https://medium.com/@ay154804)
+- [CyLab Academy](https://learn.cylabacademy.org/users/Uncledark)
