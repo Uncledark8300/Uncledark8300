@@ -3,7 +3,10 @@
 ---
 ## 💡 About Me
 I'm a passionate cybersecurity engineer with a strong foundation in:
-Network Security & Threat Analysis
+- **Networking:** Enterprise routers & switches, firewall ACLs, TCP/IP, DNS, HTTP/S, traffic analysis
+- **Security:** Penetration testing, intrusion detection, access control, traffic analysis
+- **Systems:** Windows & Linux administration (Ubuntu, Kali), Active Directory, VMware
+- **Scripting:** Python, Bash, PowerShell automation
 ---
 ## 💻 Technical Skills
 ---
